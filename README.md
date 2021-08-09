@@ -1,4 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <img src="./chunzhi23.png" width="150px">
+</p>
+
+## ❔ Simply introducing
+I'm the one of enjoying coding:)
+
+### 🌱 What I currently learning
+<p>
+  <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-2862E9?style=flat-square&logo=css3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/ScikitLearn-ffc107?style=flat-square">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+</p>
+    
+### 🔭 What I interested in
+<p>
+  <img src="https://img.shields.io/badge/Tensorflow-e68a23?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Router-ca4245?style=flat-square&logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend-4a4a4a?style=flat-square&logo=circleci&logoColor=white">
+</p>
+
 
 <!--
 **chunzhi23/chunzhi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
