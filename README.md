@@ -3,7 +3,7 @@
 </p>
 
 ## ❔ Simply introducing
-I'm the one of enjoying coding:)
+> I'm the one of enjoying coding:)
 
 ### 🌱 What I currently learning
 <p>
