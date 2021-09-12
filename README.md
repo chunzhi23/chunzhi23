@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-2862E9?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
