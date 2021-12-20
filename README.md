@@ -14,15 +14,13 @@
   <br>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-185886?style=flat-square&logo=linux&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/ScikitLearn-ffc107?style=flat-square">
+  <img src="https://img.shields.io/badge/Tensorflow-F0B93A?style=flat-square&logo=tensorflow&logoColor=white">
 </p>
     
 ### 🔭 What I interested in
 <p>
-  <img src="https://img.shields.io/badge/Tensorflow-e68a23?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Router-ca4245?style=flat-square&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-4a4a4a?style=flat-square&logo=circleci&logoColor=white">
 </p>
