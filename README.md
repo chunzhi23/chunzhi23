@@ -8,9 +8,4 @@
 
 ### My Natural Languages
 
-<img src="./icons/korea.png" alt="Korean" width="68" />
-<img src="./icons/england.png" alt="English" width="68" />
-<img src="./icons/taiwan.png" alt="Taiwanese" width="68" />
-<img src="./icons/japan.png" alt="Japanese" width="68" />
-<img src="./icons/russia.png" alt="Russian" width="68" />
-<img src="./icons/mongolia.png" alt="Mongolian" width="68" />
+<img src="./icons/korea.png" alt="Korean" width="68" /> <img src="./icons/england.png" alt="English" width="68" /> <img src="./icons/taiwan.png" alt="Taiwanese" width="68" /> <img src="./icons/japan.png" alt="Japanese" width="68" /> <img src="./icons/russia.png" alt="Russian" width="68" /> <img src="./icons/mongolia.png" alt="Mongolian" width="68" />
