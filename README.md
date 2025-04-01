@@ -18,4 +18,4 @@
 
 ### My Natural Languages
 
-<img src="./icons/korea.svg" alt="Korean" width="60" /> <img src="./icons/england.svg" alt="English" width="60" /> <img src="./icons/taiwan.svg" alt="Mandarin" width="60" /> <img src="./icons/japan.svg" alt="Japanese" width="60" /> <img src="./icons/russia.svg" alt="Russian" width="60" /> <img src="./icons/mongolia.svg" alt="Mongolian" width="60" />
+<img src="./icons/korea.svg" alt="Korean" width="60" /> <img src="./icons/england.svg" alt="English" width="60" /> <img src="./icons/taiwan.svg" alt="Mandarin" width="60" /> <img src="./icons/japan.svg" alt="Japanese" width="60" /> <img src="./icons/russia.svg" alt="Russian" width="60" /> <img src="./icons/mongolia.svg" alt="Mongolian" width="60" /> <img src="./icons/germany.svg" alt="German" width="60" />
