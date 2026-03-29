@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=220&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18&descColor=ccddff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=220&section=header&text=Hi%20there!%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&lines=Full-Stack+%2F+Mobile+%2F+Cloud+Engineer+%F0%9F%9A%80;Kotlin+Multiplatform+%7C+Flutter+%7C+Spring+Boot;Containerizing+everything+with+Docker+%26+K8s+%E2%98%B8;Always+learning%2C+always+building+%F0%9F%94%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+Exploring+AI+%F0%9F%A7%A0;Building+Web%2C+Mobile+%26+DevOps+%E2%9A%99%EF%B8%8F;KMP+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Always+Learning%2C+Always+Building+%F0%9F%94%A8" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -16,14 +14,14 @@
 
 <div align="center">
 
-| Flag | Language |       Level        | Proficiency |   Notes   |
-| :--: | :------: | :----------------: | :---------: | :-------: |
-|  🇰🇷  |  Korean  |       Native       | ██████████  |
-|  🇺🇸  | English  | Upper-Intermediate | ████████░░  | TOEIC 815 |
-|  🇯🇵  | Japanese |    Intermediate    | ██████░░░░  |
-|  🇨🇳  | Chinese  |    Intermediate    | ██████░░░░  |
-|  🇩🇪  |  German  |     Elementary     | ███░░░░░░░  |
-|  🇷🇺  | Russian  |     Elementary     | ███░░░░░░░  |
+|                                        Flag                                        | Language |       Level        | Proficiency |   Notes   |
+| :--------------------------------------------------------------------------------: | :------: | :----------------: | :---------: | :-------: |
+|   <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="36"/>   |  Korean  |       Native       | ██████████  |
+| <img src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" width="36"/> | English  | Upper-Intermediate | ████████░░  | TOEIC 815 |
+|   <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="36"/>   | Japanese |    Intermediate    | ██████░░░░  |
+|   <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="36"/>   | Mandarin |    Intermediate    | ██████░░░░  |
+|   <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="36"/>   |  German  |     Elementary     | ███░░░░░░░  |
+|   <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="36"/>   | Russian  |     Elementary     | ███░░░░░░░  |
 
 </div>
 
@@ -31,9 +29,14 @@
 <summary>🌱 Languages I'm interested in learning</summary>
 <br/>
 <div align="center">
-
-🇲🇳 Mongolian &nbsp;·&nbsp; 🇸🇦 Arabic &nbsp;·&nbsp; 🇮🇷 Persian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇮🇱 Hebrew &nbsp;·&nbsp; 🇹🇼 Taiwanese &nbsp;·&nbsp; 🇮🇹 Italian &nbsp;·&nbsp; 🇪🇸 Spanish
-
+<img src="https://hatscripts.github.io/circle-flags/flags/mn.svg" width="28" style="vertical-align: middle;"/> Mongolian &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="28" style="vertical-align: middle;"/> Arabic &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/ir.svg" width="28" style="vertical-align: middle;"/> Persian &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="28" style="vertical-align: middle;"/> French &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/il.svg" width="28" style="vertical-align: middle;"/> Hebrew &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="28" style="vertical-align: middle;"/> Taiwanese &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="28" style="vertical-align: middle;"/> Italian &nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="28" style="vertical-align: middle;"/> Spanish
 </div>
 </details>
 
