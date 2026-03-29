@@ -44,43 +44,43 @@
 
 ### 💻 Languages
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp&theme=dark" />
 </div>
 
 ### 🌐 Web Frontend
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs&theme=dark" />
 </div>
 
 ### 📱 Mobile
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,flutter,dart&theme=dark" />
 </div>
 
 ### ⚙️ Backend
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java&theme=dark" />
 </div>
 
 ### 🐳 DevOps & Infra
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,argocd&theme=dark" />
 </div>
 
 ### 🔧 IDEs & Tools
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,idea&theme=dark" />
 </div>
 
 ### 🎨 Design & Collaboration
 
-<div align="center">
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,slack&theme=dark" />
 </div>
 
