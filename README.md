@@ -8,15 +8,34 @@
   </a>
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 **I'm Jongmin** - I'm a frontend developer, designer, and college student. What I'm interested in is artificial intelligence(AI) in the life science field, being a fullstack developer, and WEB/APP development. I usually work on my college club projects and my own projects.
 
-<br/>
+## 🌏 Languages
 
----
+<div align="center">
+
+| Flag | Language |       Level        | Proficiency |   Notes   |
+| :--: | :------: | :----------------: | :---------: | :-------: |
+|  🇰🇷  |  Korean  |       Native       | ██████████  |
+|  🇺🇸  | English  | Upper-Intermediate | ████████░░  | TOEIC 815 |
+|  🇯🇵  | Japanese |    Intermediate    | ██████░░░░  |
+|  🇨🇳  | Chinese  |    Intermediate    | ██████░░░░  |
+|  🇩🇪  |  German  |     Elementary     | ███░░░░░░░  |
+|  🇷🇺  | Russian  |     Elementary     | ███░░░░░░░  |
+
+</div>
+
+<details>
+<summary>🌱 Languages I'm interested in learning</summary>
+<br/>
+<div align="center">
+
+🇲🇳 Mongolian &nbsp;·&nbsp; 🇸🇦 Arabic &nbsp;·&nbsp; 🇮🇷 Persian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇮🇱 Hebrew &nbsp;·&nbsp; 🇹🇼 Taiwanese &nbsp;·&nbsp; 🇮🇹 Italian &nbsp;·&nbsp; 🇪🇸 Spanish
+
+</div>
+</details>
 
 ## 🛠 Tech Stack
 
@@ -26,15 +45,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp&theme=dark" />
 </div>
 
-<br/>
-
 ### 🌐 Web Frontend
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,react,nextjs&theme=dark" />
 </div>
-
-<br/>
 
 ### 📱 Mobile
 
@@ -42,15 +57,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,flutter,dart&theme=dark" />
 </div>
 
-<br/>
-
 ### ⚙️ Backend
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java&theme=dark" />
 </div>
-
-<br/>
 
 ### 🐳 DevOps & Infra
 
@@ -58,15 +69,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,argocd&theme=dark" />
 </div>
 
-<br/>
-
 ### 🔧 IDEs & Tools
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,idea&theme=dark" />
 </div>
-
-<br/>
 
 ### 🎨 Design & Collaboration
 
@@ -74,24 +81,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,slack&theme=dark" />
 </div>
 
-<br/>
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chunzhi23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunzhi23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chunzhi23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-
-<br/>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -103,9 +97,9 @@
   </picture>
 </div>
 
-<br/>
-
 ---
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chunzhi23&color=7AA2F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
