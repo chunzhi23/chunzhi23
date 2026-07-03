@@ -87,16 +87,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chunzhi23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tsungmnli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chunzhi23/chunzhi23/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chunzhi23/chunzhi23/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chunzhi23/chunzhi23/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tsungmnli/tsungmnli/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsungmnli/tsungmnli/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tsungmnli/tsungmnli/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -105,7 +105,7 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chunzhi23&color=7AA2F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tsungmnli&color=7AA2F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
